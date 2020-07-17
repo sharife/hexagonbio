@@ -2,13 +2,8 @@ backend:
   name: git-gateway
 display_url: http://www.hexagonbio.com
 publish_mode: editorial_workflow
-# media_folder: "site/static/img" # Folder where user uploaded files should go
-media_library:
-  name: uploadcare
-  config:
-    publicKey: 9e007d301f6ad1c6a146
-    uploadcare_tabs: file url gdrive dropbox
-#public_folder: "img"
+media_folder: "site/static/img" # Folder where user uploaded files should go
+public_folder: "img"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "news" # Used in routes, ie.: /admin/collections/:slug/edit
