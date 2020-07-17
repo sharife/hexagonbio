@@ -1,6 +1,24 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" "/img/7.jpg" "title" "This is where the heading goes" "subtitle" "This is where the subtitle goes") }}
-{{ .Content }}
+{{ partial "hero-sm" (dict "imageUrl" "/img/jobs-right.png" "title" "Careers" "subtitle" "Learn more about the position below. To apply, please send your CV and cover letter to careers@hexagonbio.com.") }}
 
+<div class="ph5 ml">
+  <div class="mw8 center">
+
+  <div class="mw7 ml intro-body" style="margin-top:-10%">
+    <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
+    <div class="flex justify-between grey-3">
+      <!-- <p class="f6">{{ .Date.Format "Mon, Jan 2, 2006" }}</p> -->
+    </div>
+    <div class="cms mw6">
+      <p>{{ .Description }}</p>
+      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+      {{ .Content }}
+    </div>
+    <div class="pv4">
+      <a href="/careers" class="btn raise">« Back to careers</a>
+    </div>
+  </div>
+</div>
+</div>
 {{ end }}

@@ -1,19 +1,9 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
-contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+title: Contact Us
+intro: 'We''re located in Menlo Park, California.'
+map: 'https://ucarecdn.com/3c566e85-9a55-4236-9cfe-c197bcba8477/'
+link: 'https://goo.gl/maps/JcywXY713hu'
+location: '1505 Adams Drive, Suite A Menlo Park, CA 94025'
+inquiries: 'For inquiries, please email info@hexagonbio.com.'
 ---
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
-
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!

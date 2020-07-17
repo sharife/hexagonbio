@@ -1,5 +1,5 @@
 .f1 { font-size: 3rem; }
-.f2 { font-size: 2.25rem; }
+.f2 { font-size: 2.1rem; }
 .f3 { font-size: 1.5rem; }
 .f4 { font-size: 1.25rem;; }
 .f5 { font-size: var(--spacing-medium); }
@@ -24,7 +24,7 @@
   .f-5-m,
   .f-subheadline-m { font-size: 5rem; }
   .f1-m { font-size: 3rem; }
-  .f2-m { font-size: 2.25rem; }
+  .f2-m { font-size: 2.1rem; }
   .f3-m { font-size: 1.5rem; }
   .f4-m { font-size: 1.25rem;; }
   .f5-m { font-size: var(--spacing-medium); }

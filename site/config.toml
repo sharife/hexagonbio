@@ -1,9 +1,42 @@
 baseurl = "/"
 languageCode = "en-us"
-languageLang = "en"
-title = "Homepage"
+title = "Hexagon Bio"
+sectionPagesMenu = "main"
+
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+
+
+[menu]
+	[[menu.main]]
+	identifier = "about"
+	name = "ABOUT"
+	url = "/about"
+	weight = 1
+
+	[[menu.main]]
+	identifier = "news"
+	name = "NEWS"
+	url = "/news"
+	weight = 2
+
+	[[menu.main]]
+	identifier = "team"
+	name = "TEAM"
+	url = "/team"
+	weight = 3
+
+	[[menu.main]]
+	identifier = "careers"
+	name = "CAREERS"
+	url = "/careers"
+	weight = 4
+
+	[[menu.main]]
+	identifier = "contact"
+	name = "CONTACT"
+	url = "/contact"
+	weight = 5

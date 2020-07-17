@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+{{ partial "hero-sm" (dict "imageUrl" "/img/about-right.png" "title" .Title "subtitle" .Params.subtitle "intro" .Params.intro) }}
+
+<!-- {{ partial "2-up" .Params }} -->
+
+{{ partial "text-and-icons" .Params }}
+
+{{ partial "image-l" (dict "imageUrl" "/img/about-left.png") }}
+
+{{ partial "pubs" .Params.pubs }}
+
+{{ partial "partners" (dict "heading" .Params.partners.heading "text1" .Params.partners.text1 "text2" .Params.partners.text2) }}
+
+<!-- <div class="mw7 center ph3 pt4">
+
+  {{ range $index, $element := .Params.abouts }}
+    {{ if modBool $index 2 }}
+      {{ partial "media-block" $element }}
+    {{ else }}
+      {{ partial "media-block-reverse" $element }}
+    {{ end }}
+  {{ end }}
+
+</div> -->
+
+{{ end }}
