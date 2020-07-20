@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+
 #logo, #content {
 	display:none;
 }
@@ -12,4 +14,14 @@ a {
 
 #application, #wrapper {
 	background-color: rgba(245, 243, 242, 1);
+}
+
+body, html {
+	font-family: 'Nunito Sans', sans-serif;
+}
+
+.button, .accessible #submit_app, .accessible #apply_button {
+	background-color: rgba(241, 95, 35, 1);
+	text-shadow: none;
+	font-weight: bold;
 }
