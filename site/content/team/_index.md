@@ -66,6 +66,21 @@ advisors:
     - link: 'https://www.linkedin.com/in/marnix-medema-52350a26/'
       name: 'Marnix Medema, PhD'
       title: 'Assistant Professor, Bioinformatics, Wageningen University'
+board:
+  heading: Board of Directors
+  items:
+    - name: 'David Goeddel, PhD'
+      title: 'Managing Partner, The Column Group | Chairman'
+    - name: 'Maureen Hillenmeyer, PhD'
+      title: 'CEO & Founder, Hexagon Bio'
+    - name: 'Brian Naughton, PhD'
+      title: 'Head of Data & Founder, Hexagon Bio'
+    - name: Millie Ray, PhD
+      title: Principal, The Column Group
+    - name: Alex Kolicich
+      title: 'Founding Partner, 8VC'
+    - name: 'Juan Jaen, PhD'
+      title: 'President & Co-Founder, Arcus Biosciences'
 investors:
   heading: Investors
   items:
