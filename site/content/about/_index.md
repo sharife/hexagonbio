@@ -1,16 +1,12 @@
 ---
 title: A new way to discover
-subtitle: ' DNA sequencing costs are dropping exponentially, and DNA synthesis costs are not far behind.'
+subtitle: 'Hexagon Bio’s mission to identify medicines encoded in the global metagenome, and bring them to patients.'
 intro: >-
-  These technologies are enabling genome sequencing and engineering at an
-  unprecedented scale. Many of the world's most important medicines are derived from
-  nature, found by accident without knowledge of the source DNA sequence. We start from genomic data, then use our advanced software to identify, prioritize, and generate variants of the most promising molecules for testing.
+  While nature’s molecules have proven to be a rich source of potent medicines, their translation has been laborious and hindered by the lack of mechanistic understanding of the intended target. Hexagon Bio’s interdisciplinary platform uses data science, genomics, synthetic biology and automation to discover evolutionarily refined molecules and their protein targets directly from fungal genomes.
 approach:
   main: Our Unique Approach
   intro: >-
-    Our proprietary methods allow us to develop medicines against novel
-    targets, even targets previously considered undruggable. Our focus is on
-    oncology and anti-infective medicines.
+    Our proprietary methods allow us to develop medicines against novel targets, even targets previously considered undruggable. Our focus is on human oncology and anti-infective medicines. The platform is extensible to immunology, cardiovascular, neurological, and metabolic disorders.
   heading: Why fungi?
   text: >-
     Fungi are similar to humans, sharing 6000 genes, all of which are potential therapeutic targets. Fungi have evolved medicines for human proteins over billions on years. And while over 5 million fungi exist on Earth, only a few thousand species have been studied to date.

@@ -1,6 +1,6 @@
 ---
 title: >-
-  We turn the world's DNA into new medicines.
+  We turn nature’s DNA into medicines.
 intro:
   heading: Finding Small Molecules to Treat Disease
   text: >-
@@ -12,8 +12,7 @@ icons:
   - heading: GENOMICS
     image: /img/icon-genomics.svg
     text: >-
-      Thanks to exponential reductions in DNA sequencing costs, thousands of
-      species' genomes are now available.
+      We are sequencing thousands of microbial genomes to build a diverse database.
   - heading: DATA SCIENCE
     image: /img/icon-datascience.svg
     text: >-
@@ -22,8 +21,7 @@ icons:
   - heading: SYNTHETIC BIOLOGY
     image: /img/icon-synthbio.svg
     text: >-
-      Our unique synthetic biology platform enables us to rapidly produce lead
-      compounds for clinical development.
+      Our unique synthetic biology platform enables us to rapidly produce new molecules.
 careers:
   heading: Driven to Discover
   image: 'https://ucarecdn.com/23690f0b-49ef-4a90-b110-6cba809d0fb4/'
