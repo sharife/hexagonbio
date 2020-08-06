@@ -22,6 +22,10 @@ icons:
     image: /img/icon-synthbio.svg
     text: >-
       Our unique synthetic biology platform enables us to rapidly produce new molecules.
+  - heading: DRUG DISCOVERY
+    image: /img/icon-drugdiscovery.svg
+    text: >-
+      Our team of world-class scientists are developing these potent molecules into medicines.
 careers:
   heading: Driven to Discover
   image: 'https://ucarecdn.com/23690f0b-49ef-4a90-b110-6cba809d0fb4/'
