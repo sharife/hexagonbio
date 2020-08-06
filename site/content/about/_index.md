@@ -9,7 +9,7 @@ approach:
     Our proprietary methods allow us to develop medicines against novel targets, even targets previously considered undruggable. Our focus is on human oncology and anti-infective medicines. The platform is extensible to immunology, cardiovascular, neurological, and metabolic disorders.
   heading: Why fungi?
   text: >-
-    Fungi are similar to humans, sharing 6000 genes, all of which are potential therapeutic targets. Fungi have evolved medicines for human proteins over billions on years. And while over 5 million fungi exist on Earth, only a few thousand species have been studied to date.
+    Fungi are similar to humans, sharing 6000 genes, many of which are potential therapeutic targets. Fungi have evolved medicines for human proteins over billions of years. And while over 5 million fungi exist on Earth, only a few thousand species have been studied to date.
 icons:
   - heading: TICker algorithm
     image: /img/icon-datascience.svg
