@@ -70,8 +70,8 @@ board:
   heading: Board of Directors
   items:
     - name: 'David Goeddel, PhD'
-      title: 'Chairman, Hexagon Bio'
-      title2: 'Managing Partner, The Column Group'
+      title: 'Managing Partner, The Column Group'
+      title2: 'Chairman, Hexagon Bio'
     - name: 'Maureen Hillenmeyer, PhD'
       title: 'CEO & Founder, Hexagon Bio'
     - name: 'Brian Naughton, PhD'
