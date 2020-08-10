@@ -85,6 +85,18 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: Name, name: name, widget: string}
                   - {label: Title, name: title, widget: string}
                   - {label: Profile Link, name: link, widget: string, required: false}
+          - label: Board of Directors
+            name: board
+            widget: object
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - label: Bios
+                name: items
+                widget: list
+                fields:
+                  - {label: Name, name: name, widget: string}
+                  - {label: Title, name: title, widget: markdown}
+                  - {label: Profile Link, name: link, widget: string, required: false}
           - label: Investors
             name: investors
             widget: object

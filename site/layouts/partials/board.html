@@ -9,7 +9,10 @@
 						<img src="{{ .image }}" alt=""/>
 					{{ end }}
 					<p class="b mb1">{{ .name }}</p>
-					<p class="f6 mb0">{{ .title }}</p>
+					<p class="f6 mb0">{{ .title | markdownify }}</p>
+					{{ if .title2 }}
+					<p class="f6 mb0">{{ .title2 }}</p>
+					{{end}}
 					{{ if .link }}
 						<p>{{ partial "social-icon-alt" (dict "link" .link "svg" "icons-profile") }}</p>
 					{{ end }}

@@ -19,8 +19,8 @@ icons:
   - heading: HEx platform
     image: /img/icon-synthbio.svg
     text: >-
-      The HEx platform for rapid production of Targeted Bioengineered Small
-      Molecules (TBSMs) creates new chemical entities based on truly novel
+      The HEx platform for production of Targeted Bioengineered Small
+      Molecules (TBSMs) creates new chemical entities based on novel
       chemical scaffolds.
 pubs:
   heading: Peer-reviewed Publications
