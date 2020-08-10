@@ -6,7 +6,9 @@
 			{{ range .items }}
 				<div class="w-50-ns w-25-l mb4">
 					{{ if .image }}
+						{{ if .link }}<a href="{{.link}}" target="_blank">{{ end }}
 						<img src="{{ .image }}" class="w-100" style="max-width:240px;" alt=""/>
+						{{ if .link }}</a>{{ end }}
 					{{ end }}
 				</div>
 			{{ end }}
