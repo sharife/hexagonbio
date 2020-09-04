@@ -17,7 +17,7 @@ leaders:
       link: 'https://www.linkedin.com/in/brian-naughton-9755052'
       name: 'Brian Naughton, PhD'
       text: >
-        Brian is a founder and head of data at Hexagon. Previously, he was
+        Brian is a founder and head of data at Hexagon Bio. Previously, he was
         founding scientist at 23andMe.
       title: Head of Data & Founder
     - image: 'https://ucarecdn.com/61f304a7-d5dc-4fb2-83e1-3d1a41d138a8/'
