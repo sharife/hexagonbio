@@ -42,6 +42,12 @@ leaders:
         Andy is the Head of Engineering at Hexagon Bio. Previously he was
         Director of Engineering at Palantir Technologies.
       title: Head of Engineering
+    - image: '/img/profile_tod.jpg'
+      link: 'https://www.linkedin.com/in/tod-smeal-77443911/'
+      name: Tod Smeal, PhD
+      text: >-
+        Tod leads Hexagon Bio's drug discovery team. Previously, he was Chief Scientific Officer of Cancer Biology at Lilly Research Labs. Tod has led many oncology programs at Lilly, Pfizer, and SUGEN where he played key roles on lorlatinib, crizotinib, and nirogacestat.
+      title: Chief Scientific Officer
   heading: Leadership
 advisors:
   heading: Advisors
