@@ -3,7 +3,7 @@ title: Hexagon Bio Closes $47 Million in Series A Financing to Advance Novel Onc
 link: >-
   https://www.genengnews.com/gen-articles/scanning-fungal-warscapes-for-drug-candidates/6190
 pub: 
-date: 2019-09-15T08:00:10.000Z
+date: 2020-09-15T08:00:10.000Z
 description: >-
   The company is building a first-of-its-kind proprietary genomics database to reveal new secondary metabolites to combat human disease.
 ---
