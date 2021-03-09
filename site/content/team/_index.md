@@ -48,6 +48,12 @@ leaders:
       text: >-
         Tod leads Hexagon Bio's drug discovery team. Previously, he was Chief Scientific Officer of Cancer Biology at Lilly Research Labs. Tod has led many oncology programs at Lilly, Pfizer, and SUGEN where he played key roles on lorlatinib, crizotinib, and nirogacestat.
       title: Chief Scientific Officer
+    - image: '/img/profile_jim.jpg'
+      link: 'https://www.linkedin.com/in/jim-li-60b4279/'
+      name: Jim Li, PhD
+      text: >-
+        Jim leads Hexagon’s chemistry team. Most recently, he was Senior Director of Medicinal Chemistry at Calithera Biosciences where he led discovery efforts to advance multiple first-in-class clinical candidates in the oncology area. Previously, he served as project leader and led the medicinal chemistry efforts for virology, and contributed to the central nervous system (CNS) discovery activities at Roche.
+      title: Vice President of Chemistry
   heading: Leadership
 advisors:
   heading: Advisors
