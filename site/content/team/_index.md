@@ -39,7 +39,7 @@ leaders:
       link: 'https://www.linkedin.com/in/aaymeloglu'
       name: Andy Aymeloglu
       text: >-
-        Andy is the Head of Engineering at Hexagon Bio. Previously he was
+        Andy is the Head of Engineering at Hexagon Bio. Previously, he was
         Director of Engineering at Palantir Technologies.
       title: Head of Engineering
     - image: '/img/profile_tod.jpg'
