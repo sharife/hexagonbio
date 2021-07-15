@@ -80,19 +80,23 @@ board:
       title2: 'Chairman, Hexagon Bio'
     - name: 'Maureen Hillenmeyer, PhD'
       title: 'CEO & Founder, Hexagon Bio'
+    - name: 'Juan Jaen, PhD'
+      title: 'President & Co-Founder, Arcus Biosciences'
+    - name: Alex Kolicich
+      title: 'Founding Partner, 8VC'
+    - name: Jakob Loven, PhD
+      title: 'Partner, Nextech Invest'
     - name: 'Brian Naughton, PhD'
       title: 'Head of Data & Founder, Hexagon Bio'
     - name: Millie Ray, PhD
       title: Principal, The Column Group
-    - name: Alex Kolicich
-      title: 'Founding Partner, 8VC'
-    - name: 'Juan Jaen, PhD'
-      title: 'President & Co-Founder, Arcus Biosciences'
 investors:
   heading: Investors
   items:
     - image: '/img/logo-tcg.png'
       link: 'https://www.thecolumngroup.com/'
+    - image: '/img/logo-nextech.png'
+      link: 'https://www.nextechinvest.com/'
     - image: 'https://ucarecdn.com/3654106a-f742-49d8-a170-7dddb982b170/'
       link: https://8vc.com/
     - image: 'https://ucarecdn.com/9db1f8cf-a3a0-417a-a893-1ea5c50be0ae/'
