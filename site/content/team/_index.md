@@ -95,6 +95,8 @@ investors:
   items:
     - image: '/img/logo-tcg.png'
       link: 'https://www.thecolumngroup.com/'
+    - image: '/img/logo-softbank.png'
+      link: 'https://visionfund.com/'
     - image: '/img/logo-nextech.png'
       link: 'https://www.nextechinvest.com/'
     - image: 'https://ucarecdn.com/3654106a-f742-49d8-a170-7dddb982b170/'
