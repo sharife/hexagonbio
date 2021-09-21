@@ -4,14 +4,11 @@ title: Hexagon Bio Raises $61 Million to Advance Novel Small-Molecule Medicines
 link: ""
 pub: ""
 date: 2021-09-23T00:30:21.279Z
-description: >-
-  Proceeds to fund expansion of leading-edge, interdisciplinary drug discovery
-  platform and advance a preclinical pipeline initially focused on oncology and
-  infectious diseases
-
-
-  Funding led by Nextech Invest, with new investors SoftBank Vision Fund 2 and Casdin Capital and existing investors The Column Group, 8VC, and Two Sigma Ventures
+description: " "
 ---
+* Proceeds to fund expansion of leading-edge, interdisciplinary drug discovery platform and advance a preclinical pipeline initially focused on oncology and infectious diseases
+* Funding led by Nextech Invest, with new investors SoftBank Vision Fund 2 and Casdin Capital and existing investors The Column Group, 8VC, and Two Sigma Ventures
+
 MENLO PARK, CA, September 22, 2021 – Hexagon Bio, a biopharmaceutical company pioneering the discovery of medicines encoded in the global metagenome, today announced that it has raised $61 million to fuel the continued development of its platform to design and develop new therapeutics mined from microbial genomes. Nextech Invest led the financing, with participation from new investors SoftBank Vision Fund 2* and Casdin Capital, as well as existing investors The Column Group, 8VC, and Two Sigma Ventures. 
 
 “Microbial genomes are an incredibly rich source of diverse, potent and drug-like compounds that, as a result of millions of years of evolution, provide elegant solutions to human therapeutic targets that have eluded traditional screening approaches. To date, the discovery of these small molecules has been limited to a tiny fraction of the earth’s microbes and hampered by a lack of mechanistic understanding of the intended drug targets,” said Maureen Hillenmeyer, Ph.D., Hexagon’s co-founder and CEO. “Hexagon exists to overcome these challenges and unearth new medicines to combat human disease. We are excited to embark on the next phase of growth to discover and develop unique and potent therapeutic compounds for a broad spectrum of intractable diseases.” 
