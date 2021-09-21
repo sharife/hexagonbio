@@ -4,7 +4,7 @@ title: Hexagon Bio Raises $61 Million to Advance Novel Small-Molecule Medicines
 link: ""
 pub: ""
 date: 2021-09-23T00:30:21.279Z
-description: " "
+description: ""
 ---
 * Proceeds to fund expansion of leading-edge, interdisciplinary drug discovery platform and advance a preclinical pipeline initially focused on oncology and infectious diseases
 * Funding led by Nextech Invest, with new investors SoftBank Vision Fund 2 and Casdin Capital and existing investors The Column Group, 8VC, and Two Sigma Ventures
