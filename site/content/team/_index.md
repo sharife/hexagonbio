@@ -95,6 +95,8 @@ investors:
   items:
     - image: '/img/logo-tcg.png'
       link: 'https://www.thecolumngroup.com/'
+    - image: '/img/logo-casdin.png'
+      link: 'https://casdincapital.com/'
     - image: '/img/logo-softbank.png'
       link: 'https://visionfund.com/'
     - image: '/img/logo-nextech.png'
