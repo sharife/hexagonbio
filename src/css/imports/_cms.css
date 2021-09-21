@@ -26,6 +26,11 @@
   & h5 {
     font-size: .875rem;
   }
+  & h6 {
+  	font-weight: normal;
+    font-size: .75rem;
+    line-height: 1.1;
+  }
 
 	/* Images */
 	& img {
