@@ -16,7 +16,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Link", name: "link", widget: "string", required: false}
       - {label: "Publication", name: "pub", widget: "string", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Intro", name: "description", widget: "text"}
+      - {label: "Intro", name: "description", widget: "text", required: false}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
