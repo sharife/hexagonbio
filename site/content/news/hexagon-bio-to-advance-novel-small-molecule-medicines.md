@@ -3,7 +3,7 @@ title: Hexagon Bio Raises $61 Million to Advance Novel Small-Molecule Medicines
   Mined from Microbial Genomes
 link: ""
 pub: ""
-date: 2021-09-22T12:30:21.279Z
+date: 2021-09-22T12:20:21.279Z
 description: ""
 ---
 * Proceeds to fund expansion of leading-edge, interdisciplinary drug discovery platform and advance a preclinical pipeline initially focused on oncology and infectious diseases
