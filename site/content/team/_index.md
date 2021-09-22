@@ -34,7 +34,7 @@ leaders:
         Colin is a founder and Head of Chemistry and Biology at Hexagon Bio.
         Previously, he led synthetic biology efforts for natural product
         discovery at the Stanford Genome Technology Center.
-      title: Head of Biology & Chemistry & Founder
+      title: Head of Synthetic Biology & Automation & Founder
     - image: 'https://ucarecdn.com/12d45d83-5856-4669-8e1e-68cf92f2c94c/'
       link: 'https://www.linkedin.com/in/aaymeloglu'
       name: Andy Aymeloglu
@@ -48,6 +48,12 @@ leaders:
       text: >-
         Jim leads Hexagon’s chemistry team. Most recently, he was Senior Director of Medicinal Chemistry at Calithera Biosciences where he led discovery efforts to advance multiple first-in-class clinical candidates in the oncology area. Previously, he served as project leader and led the medicinal chemistry efforts for virology, and contributed to the central nervous system (CNS) discovery activities at Roche.
       title: Vice President of Chemistry
+    - image: '/img/profile_sofia.jpg'
+      link: 'https://www.linkedin.com/in/sofia-touami-84b844a'
+      name: Sofia Touami, PhD
+      text: >-
+        Sofia is Hexagon's Chief Business Officer. Previously, she was VP of Business Development at Frontier Medicines and prior to that, led business development and alliance management at NGM Bio.
+      title: Chief Business Officer
   heading: Leadership
 advisors:
   heading: Advisors
