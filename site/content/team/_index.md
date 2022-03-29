@@ -54,6 +54,12 @@ leaders:
       text: >-
         Sofia is Hexagon's Chief Business Officer. Previously, she was VP of Business Development at Frontier Medicines and prior to that, led business development and alliance management at NGM Bio.
       title: Chief Business Officer
+    - image: '/img/profile_tara.jpg'
+      link: 'https://www.linkedin.com/in/tara-arvedson-a437081'
+      name: Tara Arvedson, PhD
+      text: >-
+        Tara is Hexagon’s Senior Vice President of Research. Previously she was an Executive Director of Oncology Research at Amgen where she led small molecule and large molecule programs in Oncology, Immuno-Oncology, Inflammation and Hematology.
+      title: Senior Vice President, Research
   heading: Leadership
 advisors:
   heading: Advisors

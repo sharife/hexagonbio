@@ -70,7 +70,7 @@
 
 .bg-black {
   background-color: var(--black);
-  background-image: url("/img/bg-hex-pattern.png");
+  background-image: url("https://hexagonbio.com/img/bg-hex-pattern.png");
 }
 
 .bg-fix-primary {
